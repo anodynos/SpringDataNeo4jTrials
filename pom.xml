@@ -7,8 +7,7 @@
 	<version>0.0.2</version>
 	<packaging>war</packaging>
 
-	<name>SDN_Tests</name>
-	
+	<name>SDN_Tests</name>	
 	
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
