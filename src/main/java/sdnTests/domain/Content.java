@@ -21,7 +21,6 @@ public class Content {
 	@Fetch public String title; //public deliberately - @see DomainTest.retrieved_object_properties_are_read_correctly	
 	public String getTitle() { return title;}
 	public void setTitle(String title) { this.title = title;}
-
 	
 	//primitive based
 	@Indexed(indexName="PrimitiveIds")
